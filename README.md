@@ -110,13 +110,6 @@ I’ve worked across **healthcare, education, e-commerce, and smart city domains
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushishah2443&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushishah2443&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Let’s Connect
 
 📫 khushi.shah@tamu.edu  
